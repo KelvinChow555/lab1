@@ -1,0 +1,13 @@
+main{
+    height: 100vh;
+}
+div{
+    width: 80vw;
+    margin: 0 auto;
+}
+h5{
+    text-align: left;
+    color: chocolate;
+    font-size: 14px;
+    text-spacing: auto;
+}
